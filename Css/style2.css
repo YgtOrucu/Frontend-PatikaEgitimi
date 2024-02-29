@@ -1,0 +1,9 @@
+
+
+.BirinciBolum img, .İkinciBölüm img{
+    width: 20%;
+}
+
+.BirinciBolum h1, .İkinciBölüm h1{
+    font-weight: bold;
+}
